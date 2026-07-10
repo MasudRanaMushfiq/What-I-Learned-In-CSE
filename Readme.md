@@ -166,5 +166,9 @@ _A personal record of four years of Computer Science Engineering at the Universi
 
 
 
+## ✍️ Author
+
+All notes, structure, and content in this repository were written and compiled by me — Masud Rana Mushfiq.
+
 
 
